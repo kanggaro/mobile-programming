@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListView and Database</string>
+
+    <string name="list_empty">Practice ListView and Database</string>
+    <string name="add_new_data">Tambah data baru</string>
+    <string name="search">Pencarian...</string>
+    <string name="empty">Daftar Kosong...</string>
+    <string name="name">Nama</string>
+    <string name="contact">Kontak</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+</resources>

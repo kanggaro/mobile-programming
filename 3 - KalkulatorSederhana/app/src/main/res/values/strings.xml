@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KalkulatorSederhana</string>
+    <string name="judul">KALKULATOR</string>
+    <string name="operan_1">Operan 1</string>
+    <string name="operan_2">Operan 2</string>
+    <string name="sama_dengan">=</string>
+    <string name="hasil">#</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">/</string>
+</resources>
